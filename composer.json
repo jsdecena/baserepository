@@ -27,7 +27,6 @@
     "league/fractal": "^0.17.0"
   },
   "require-dev": {
-    "orchestra/testbench": "~3.0",
     "phpunit/phpunit": "^7.5"
   },
   "minimum-stability": "dev",

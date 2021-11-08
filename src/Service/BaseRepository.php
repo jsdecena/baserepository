@@ -54,7 +54,7 @@ abstract class BaseRepository
     }
 
     /**
-     * @param LengthAwarePaginator $paginator
+     * @param mixed $paginator
      * @param TransformerAbstract $transformer
      * @param $resourceKey
      * @param array $includes
